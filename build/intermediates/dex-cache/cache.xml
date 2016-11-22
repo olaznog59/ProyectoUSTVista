@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a18773c279bde7e49e09f621aea613685c108c7f">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.0_0c2f9bc7454f94e34f063fd11ff6b5b144bfe8d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_8e9f843204140b53acdbe97ed97170d3ba787bc2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ae809d521d9f7da5337a82edd64eea23a76e788d">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.0_4c7b8553e1c63cece35e7fe95e4c0286a7b7ad23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e2bf5e85132c8bfed05a87b71352918815e0205">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.0_8e78c956a3d580528e436debd30d6be61177b113\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_3a23ba1865a0848b2419b142d2b3023023c771ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="813f70b551ce5206ad15dfe6e2f5b2d86e08a723">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.0_6df5b1298be53d5539eb7b1f1c2aab734bc39251\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3347c3e7056fabc88bdbd8fdae65ddf2b674d977">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.0_4148731357b1dd943a145c48f0574a19dc41a01a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e2fd2b87dc79fc6c8d70fda1247ac6f4a878a28">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.0_b5fcd78423385a1a3ec0c7e0c36a1b948181de22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_54191c89573e7ff16147771cefa93ad1c04d55f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a61005619e43f203768ff3f224137def6f029e50">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.0_aebdb469cb8429b21ddbbcdede19962198393059\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73fe8ab7f76e41d0cabbc4fa3399557de52efb2d">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.0_9ede5de7887aa381a2869a213b4337ed17d23285\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75dbc3537bc912d077b3db2f5ac72d5b43644b2c">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.0_a836f52f0c4e76d0a4a264c5452fb1c3cfec868a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b410ae1fda134f470276365f4b7f846269e0d23">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.0_b79061339f6a7dc0dd866c30febe05fb0f28316d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddfa80ca49f1334afea1f9aa93148be73f73cd0f">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.0_5acd33b6c823397d1fffabd563dec2e77981d2fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_6f40df2c40b6d466cb3181650143a83c04bdb5e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="80338dde5f9d8e20efe2f2a44bc424aefe4eb8f4">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.0_9f34c86a3a5b6a1cd4573dd4790d6210c5351157\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a32c2ecb43569c89b063b97e5ce76cc0e9eefdc7">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a31cb4ffaec9a900cd53d835d941ce9852bc8057\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2e61c07206f0568b34939e2dc0e2bc75251648dc">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.0_37e2a73811ced39fa250e46b0662361e44ae29a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="985be85104f6d0c5c5e51e7b7e60d8883a98ac64">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.0_dd6129920862f103edb652ace92be6370fdf72a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="22031b047b12904b888549ba36c0c30d83b1aea1">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.0_3923d2bdd0505c26e8047b5c81fcc6675def4219\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="741f550aea73f64507fc60a799fefd5a2ea2bef5">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.0_b7a57d84ece9f46b009f8264de67dacffe86066d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ac49e5d5aea8772c8018ce2888145f04c5fe7ca">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.0_db1a796b3d8709d1045953978de5889a255825dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2376d0ec8dbe85d3446cad64905c0395fbe220e">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.0_5b5f0511d5f0ff7b7aae8a53128d3e9c00fec24f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca730ac2d72056445bf68998cec6b6b2cf4d179e">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.0_3c8acde19babd2255b27b2b8204fc0a10a231a4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a383a583c346ce8ea5767d77f4fe58e1d8e5f221">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.0_aa0304e00c05981fa14a309ba2b97c576dc97ca7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_1e37a2f2fe4acc63ac1453d5485c0dee7fa27b85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_6cce71a285360fb8046baada7e8213131a310427\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_75b368a405e2a20b5a07f4281fd13c0c30c67f26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73a2c740a76aa4ba46168ed8bcdee1966e48a589">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.0_0fe7ae52ccf17ecf5e1698cbe041bd75d624dae5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7ed3fd9d5a9687980dac6c504abd91ad3dfa238">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.0_d01864a1b09c1713bed451fa4b17801da9d0e972\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="41e39c7ee84e63ae18df6c6ccb96d196996add4c">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.0_139331d4671909d1c407b94d3dfd546225cff0c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="543835521cf4f867223d9f2a4b19ce32f95b0573">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.0_310909f68fa06382a1663ca9eb4f44a69dcba1c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bb364f67ec2eba2356872b2b4ddfe8aada2d5ac">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.0_b9fc04fbc7050cc05bbfffa1e1f4b380f3611e45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f36cf060b7f0d881ea6449c254ab8a570a3dcdbe">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.0_58ea98a69529e75f7c5b359466f86474bba1edf2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_b10aa6b6fcc12aec49d5d21211cf13094ec82835\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b7518f2d3fce2ebec6a0bb8d2cd97eebc9f119df">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.0_05f14356229e327c70ac1218b0791e408f0b3a7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4701f9f79c8a00564912b21b0cb0cec3f51a7d23">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.0_75f1af6bbe7db1d1bd6d958718c16fe7605ae032\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_70c68cf24a7432f89ed923c028f672ccaeb8c303\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_3ec781776f69d478ca9eb6f4b7a9aee61a754f48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_94fed35e23559002857d502c73eb27803f2c004e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_8c86e29b45ae9a8642d1645ad294460843a8c75d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="849da156edbc1201f5cd6e237524187442a62af3">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.0_9d27929b58b92ad7838e649b7a207fdd15922487\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76863814ca24fea5a0510373d15d3ccddebc09f1">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.0_e65895df655f47929742b867b2c8d687dfa218b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58cd8dc3bbf63b37f0e107033257467511130e0f">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.0_7691c6b24ca6751a28c3461112a6e3785e8f5ea5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ce6e6e59212db0893fc36e5b579cf319a84aade8">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.0_6cc872c6cb291aa22fc93007372bc99b77dbfd85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cc495f5634b8aaae30a37317ba687830da545cf">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.0_0a2d03edd5500a1daf19a4d6d4d48403319db8a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_696c3358fc103df50d5f6471d7a797944212015f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="88803422fa01c6c8ef51c889f8fc5b598b23d64c">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7cb4a33c0c7ddcfc8ad8378e82b8bad2c9bc4463\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_f8b348120d1a7f8374329d0e242e5d5592cd6e0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fabe27d7a7b7ef3fe077c6499cd0a4f08e1c427">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.0_b4cd49fdaf1474f101da1bf6ad6f7a33b2600cd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_843d68c68cc516e5825dbebf1d00d4fea688f75f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="777627dcaf0eaacd4212220e8f2d0c63def91774">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.0_86fbf33c792be7c43c8755202b6bd127fbf8f089\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="147c3e6b95aa3d1e83705b056777ef865d272969">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.0_429f572d58299f9256e7183a020e6f1245a57d0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_efdaa83facb9f7caab07e1ce4c1831b205715c08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b7e0a45e8139272f3fe2a19d4e7b1122c769550">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.0_043716c4381b76b2a47dcbba353176da09a6540c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0d70f7c486d9d65ceabd0039667ae4d53bf0ae7c">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.0_4a90be0f800d34c38552acdbfb283617ec7f7094\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_23b9ec980a9e9021a25e2c56027b599a582da35f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_ade11eada1d9cfc5e1a052ed0b34ce402b711cb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fb0229499e600b485a276d4e31161a3ae31c144c">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.0_b4d9fbaf7ac3119d52cccb26a9fce3518ecbe24f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5fd86107cb2d2fa2d099250066cc664cdcfd476f">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.0_76c944eee210bd9e0ebd8a2fe7e52223dcc50b0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1c926efda90fbf653889fea922eacc527de8486">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.0_6931ee0bb7430788fe23fa3a18b901863587b963\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf60a8cd2f896314e40b2f1a9788e91e228c3671">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.0_802580dacccfbf5ad493fa738be16ddf127b1ff8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="932350448ea536c5dfbc45697951f31d34e50f1f">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.0_5ed16167449033373fdcf7437f3b037a7a7082ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3861e0294c61bf4bf968a1da1607497345dca283">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.0_2d3fb688d937f33552b2adc77fc1c6ea7696d6de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ca4ffc4d90754f1f2438dfc3e94006cfcc6be98">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.0_109230c2bee17f010d9482c01eafe4623dcaeb25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3660967212b89195e628670db181ed86e3307569">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.0_f11f2a8df9f6fb86b41637e3fd905aa44122be96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3a05b3852a6aec21ea0a6ea4d284ee69c04c55c4">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.0_a4fce9c919721ab590b42ff07ce824f6d508f34b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="444a220fadbdf260b3aa47c6e858c5d1e645170f">
+        <dex dex="C:\Users\olazn\Documents\PROYECTO\ProyectoUSTVista\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.0_ee29f9e5e74fcd98db40f14e17283def9974f3b9\classes.dex" />
+    </item>
+
+</items>
